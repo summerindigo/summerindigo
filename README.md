@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @summerindigo
 - 👀 I’m interested in project management for startups ...
-- 🌱 ... which is why I’m currently learning Python.
+- 🌱 ... which is why I’m currently learning coding.
 
 
 <!---
